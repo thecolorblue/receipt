@@ -1,0 +1,26 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+line-height: 1.42857143;
+color: #333;
+background: url('/img/green_dust_scratch.png');
+}
+
+.container {
+width: 394px;
+text-align: center;
+background: rgba(255,255,255,.9);
+}
+
+.product img {
+	height: 260px;
+}
+.map {
+	height: 300px;
+}
