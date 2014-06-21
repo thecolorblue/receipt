@@ -24,3 +24,23 @@ background: rgba(255,255,255,.9);
 .map {
 	height: 300px;
 }
+
+.user .name {
+	height:100px;
+}
+.user .metrics {
+	height:100px;
+}
+.user .img {
+	height: 82px;
+	float: left;
+	margin: 10px;
+}
+
+.table-center {
+	display: table;
+}
+.vert-center {
+	display:table-cell;
+	vertical-align:middle;
+}
